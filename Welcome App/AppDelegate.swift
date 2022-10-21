@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Welcome App
-//
-//  Created by Adilet Abilkhan on 19.10.2022.
-//
-
 import UIKit
 
 @main
